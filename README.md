@@ -1,4 +1,6 @@
-# Some-C-Programs
+# Some Codes
+
+A place to upload some programs I've coded.
 
 **Between Two Sets**
 
