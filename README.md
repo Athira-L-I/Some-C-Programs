@@ -10,6 +10,25 @@ www.hackerrank.com/challenges/between-two-sets/problem
 
 https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
 
+**Sherlock and The Beast**
+
+https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem
+Sherlock Holmes suspects his archenemy Professor Moriarty is once again plotting something diabolical. Sherlock's companion, Dr. Watson, suggests Moriarty may be responsible for MI6's recent issues with their supercomputer, The Beast.
+
+Shortly after resolving to investigate, Sherlock receives a note from Moriarty boasting about infecting The Beast with a virus. He also gives him a clue: an integer. Sherlock determines the key to removing the virus is to find the largest Decent Number having that number of digits.
+
+**Prime Number and Queries**
+
+https://www.hackerrank.com/contests/adobe-codiva/challenges/prime-number-and-queries
+
+**Maximize Profit**
+
+https://www.hackerrank.com/contests/morgan-stanley-codeathon-2017/challenges/millionaire-finally
+
+**Fair Rations**
+
+https://www.hackerrank.com/challenges/fair-rations/problem
+
 **Binary Search Tree Operations using Recursion**
 
 Binary Search Tree is a node-based binary tree data structure which has the following properties:
