@@ -2,6 +2,11 @@
 
 A place to upload some programs I've coded.
 
+**Queen's Attack II**
+
+Given the queen's position and the locations of all the obstacles, find and print the number of squares the queen can attack from her position at (r_q, c_q).
+https://www.hackerrank.com/challenges/queens-attack-2/problem
+
 **Grading Students**
 
 https://www.hackerrank.com/challenges/grading/problem
